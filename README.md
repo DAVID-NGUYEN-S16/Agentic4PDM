@@ -20,7 +20,7 @@ Nam V. Nguyen<sup>1</sup> · Hoang Van Truong<sup>1</sup> · Hieu D. D.<sup>1</s
 ## 📢 Code release
 
 > [!IMPORTANT]
-> **Code coming soon.** We plan to release the code in this repository on **16 October 2026**.
+> **Code coming soon.** The official implementation will be released in this repository soon.
 > Star or watch the repository to get a notification when it is out.
 
 ## 📰 News
